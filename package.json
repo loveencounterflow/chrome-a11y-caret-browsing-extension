@@ -1,0 +1,12 @@
+{
+  "name": "chrome-a11y-caret-browsing-extension",
+  "version": "1.0.2",
+  "description": "The Chrome Accessibility Project's Extension for Caret Browsing (unoffical, snapshot of v1.0.2)",
+  "main": "dist/caretbrowsing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": ""
+}
